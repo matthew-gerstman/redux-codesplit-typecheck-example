@@ -38,5 +38,8 @@ export default function reducer(
         }
       };
     }
+    default: {
+      return state;
+    }
   }
 }

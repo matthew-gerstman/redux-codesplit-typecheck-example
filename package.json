@@ -1,0 +1,30 @@
+{
+  "name": "redux-codesplit-typecheck-example",
+  "version": "1.0.0",
+  "description": "This repo is some sample code for the article INSERT LINK HERE",
+  "main": "index.js",
+  "dependencies": {
+    "@types/lodash": "^4.14.116",
+    "@types/react": "^16.4.11",
+    "@types/react-redux": "^6.0.6",
+    "@types/redux": "^3.6.0",
+    "lodash": "^4.17.10",
+    "react": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-gerstman/redux-codesplit-typechecl-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew-gerstman/redux-codesplit-typechecl-example/issues"
+  },
+  "homepage": "https://github.com/matthew-gerstman/redux-codesplit-typechecl-example#readme"
+}
