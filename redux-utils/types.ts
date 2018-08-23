@@ -15,5 +15,5 @@ export type StoreShape = Partial<FullStoreShape>;
 export type NamespaceKey = keyof StoreShape;
 
 export type ReducerMap = Partial<
-  { [k in NamespaceKey]: Reducer<StoreShape[k]> }
+  { [k in NamespaceKey]: Reducer<FullStoreShape[k]> }
 >;
